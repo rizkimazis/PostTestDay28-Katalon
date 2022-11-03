@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test menu Search 2 Product, add to cart https://shop.demoqa.com</description>
+   <name>Search 2 Product, add to cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ada9f4f1-d66d-4301-ad09-9d7c51ce7352</testCaseGuid>
+</TestCaseEntity>

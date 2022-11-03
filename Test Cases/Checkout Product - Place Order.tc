@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test menu Checkout Product - Place Order pada https://shop.demoqa.com</description>
+   <name>Checkout Product - Place Order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83065ee1-3f0b-4546-9838-9cf2c7dff404</testCaseGuid>
+</TestCaseEntity>
